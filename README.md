@@ -14,11 +14,16 @@ You take the basket (and sometimes the ground crew's place) on the actual day, w
 | The night aeronaut | 1805–1819 | Sophie Blanchard alone over Montpellier, the cold above Turin, and the Tivoli fireworks night: how survived risks start to look safe |
 | Eyes in the sky | 1861–62 | Lowe's Union balloons: the first air telegram, Porter's runaway balloon at Yorktown, telegraphing the Battle of Fair Oaks; tethered observation and honest reporting |
 | The cold ascent | 1862 | Glaisher and Coxwell's high flight: the standard atmosphere, hypoxia, setting a turn-back point before you need it |
+| Balloon post | 1870 | The Siege of Paris: Gambetta out over the Prussian lines, and the night balloon that came down in Norway; sand as height, and what to sacrifice when it runs short |
 | Carlotta | 1880 · 1886 | Mary Myers: a blind climb through cloud by barometer, and a broken valve cord answered by knotting the ropes |
 | The Eagle | 1897 | Andrée's Arctic flight and the ice: margins, drag ropes and the ceiling, walking against a drifting floe |
+| Excelsior | 1959–60 | Kittinger's jumps from the edge of space: arming sequences, fixing what failed, and disclosing a failing glove |
+| Clouds of Venus | 1985 | The Vega balloons on Venus: deployment timers and a battery budget for the data that matters most |
 | Across the Atlantic | 1978 | Double Eagle II: six nights of ballast, climbing above a storm, the cloud-shadow sink, choosing where to come down |
 | Into the stratosphere | 1934 | Jeannette Piccard, the first licensed US woman balloon pilot, to 57,579 ft: a fouled valve rope and a long ballast budget |
 | Around the world | 1999 | Breitling Orbiter 3: steering by height through the jet streams, China's 26° N corridor, a propane budget for three weeks |
+| Solo | 2002 | Steve Fossett alone round the Southern Hemisphere: fuel against speed, sleep against alertness, and the crises of a two-week solo flight |
+| Station-keeping | 2017 · 2020 | Loon's stratospheric balloons over Peru and Kenya: steering by choosing the wind, and trusting a tested controller |
 
 ## How the record is used
 
