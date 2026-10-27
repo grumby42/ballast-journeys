@@ -8,6 +8,7 @@ You take the basket (and sometimes the ground crew's place) on the actual day, w
 
 | Journey | Year | What it teaches |
 |---|---|---|
+| The paper-makers | 1782–83 | The Montgolfiers' winter trials, the Annonay globe and the animals at Versailles: fair tests, a working method built on a wrong theory, getting results witnessed |
 | First lift | 1783 | Charles and Robert's hydrogen balloon from the Tuileries: sand and the valve, the second sunset, what happens when weight leaves the basket |
 | Two firsts | 1784 · 1799 | Élisabeth Tible over Lyon, the first woman known to fly free, feeding a hot-air fire; Jeanne Labrosse's parachute drop: slow systems, and choosing when to cut away |
 | The night aeronaut | 1805–1819 | Sophie Blanchard alone over Montpellier, the cold above Turin, and the Tivoli fireworks night: how survived risks start to look safe |
