@@ -9,9 +9,11 @@ You take the basket (and sometimes the ground crew's place) on the actual day, w
 | Journey | Year | What it teaches |
 |---|---|---|
 | First lift | 1783 | Charles and Robert's hydrogen balloon from the Tuileries: sand and the valve, the second sunset, what happens when weight leaves the basket |
+| Eyes in the sky | 1861–62 | Lowe's Union balloons: the first air telegram, Porter's runaway balloon at Yorktown, telegraphing the Battle of Fair Oaks; tethered observation and honest reporting |
 | The cold ascent | 1862 | Glaisher and Coxwell's high flight: the standard atmosphere, hypoxia, setting a turn-back point before you need it |
 | The Eagle | 1897 | Andrée's Arctic flight and the ice: margins, drag ropes and the ceiling, walking against a drifting floe |
 | Across the Atlantic | 1978 | Double Eagle II: six nights of ballast, climbing above a storm, the cloud-shadow sink, choosing where to come down |
+| Around the world | 1999 | Breitling Orbiter 3: steering by height through the jet streams, China's 26° N corridor, a propane budget for three weeks |
 
 ## How the record is used
 
