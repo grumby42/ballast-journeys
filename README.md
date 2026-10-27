@@ -9,10 +9,14 @@ You take the basket (and sometimes the ground crew's place) on the actual day, w
 | Journey | Year | What it teaches |
 |---|---|---|
 | First lift | 1783 | Charles and Robert's hydrogen balloon from the Tuileries: sand and the valve, the second sunset, what happens when weight leaves the basket |
+| Two firsts | 1784 · 1799 | Élisabeth Tible over Lyon, the first woman known to fly free, feeding a hot-air fire; Jeanne Labrosse's parachute drop: slow systems, and choosing when to cut away |
+| The night aeronaut | 1805–1819 | Sophie Blanchard alone over Montpellier, the cold above Turin, and the Tivoli fireworks night: how survived risks start to look safe |
 | Eyes in the sky | 1861–62 | Lowe's Union balloons: the first air telegram, Porter's runaway balloon at Yorktown, telegraphing the Battle of Fair Oaks; tethered observation and honest reporting |
 | The cold ascent | 1862 | Glaisher and Coxwell's high flight: the standard atmosphere, hypoxia, setting a turn-back point before you need it |
+| Carlotta | 1880 · 1886 | Mary Myers: a blind climb through cloud by barometer, and a broken valve cord answered by knotting the ropes |
 | The Eagle | 1897 | Andrée's Arctic flight and the ice: margins, drag ropes and the ceiling, walking against a drifting floe |
 | Across the Atlantic | 1978 | Double Eagle II: six nights of ballast, climbing above a storm, the cloud-shadow sink, choosing where to come down |
+| Into the stratosphere | 1934 | Jeannette Piccard, the first licensed US woman balloon pilot, to 57,579 ft: a fouled valve rope and a long ballast budget |
 | Around the world | 1999 | Breitling Orbiter 3: steering by height through the jet streams, China's 26° N corridor, a propane budget for three weeks |
 
 ## How the record is used
