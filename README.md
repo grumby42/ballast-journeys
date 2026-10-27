@@ -11,6 +11,7 @@ You take the basket (and sometimes the ground crew's place) on the actual day, w
 | First lift | 1783 | Charles and Robert's hydrogen balloon from the Tuileries: sand and the valve, the second sunset, what happens when weight leaves the basket |
 | The cold ascent | 1862 | Glaisher and Coxwell's high flight: the standard atmosphere, hypoxia, setting a turn-back point before you need it |
 | The Eagle | 1897 | Andrée's Arctic flight and the ice: margins, drag ropes and the ceiling, walking against a drifting floe |
+| Across the Atlantic | 1978 | Double Eagle II: six nights of ballast, climbing above a storm, the cloud-shadow sink, choosing where to come down |
 
 ## How the record is used
 
@@ -23,7 +24,7 @@ Each mission is scored against an expert flying the same seed: 1000 means you ma
 
 ## Sources
 
-Listed in the game's Record tab for each journey: Charles's 1783 account, Benjamin Franklin's letters to Joseph Banks, Glaisher's reports and *Travels in the Air*, Coxwell's memoir, *Med Örnen mot polen* (1930), Lachambre and Machuron (1898), and others.
+Listed in the game's Record tab for each journey: Charles's 1783 account, Benjamin Franklin's letters to Joseph Banks, Glaisher's reports and *Travels in the Air*, Coxwell's memoir, *Med Örnen mot polen* (1930), Lachambre and Machuron (1898), the Smithsonian's Double Eagle II record, contemporary newspaper reports, and others. Modern records are summarised, never quoted.
 
 ## Licence
 
